@@ -12,7 +12,7 @@ The widget itself uses flash, and it is an open-source. See http://wordpress.org
   * Create a div container for the visualization
 
 == Inputs ==
-The DataTable format accepted by the visualization, assumes the first column (string) has the user-text to show, and the second column (string) has the target urls. An optional third column (number) can contain font sizes.
+The DataTable format accepted by the visualization, assumes the first column (string) has the user-text to show, and the second column (string) has the target urls. An optional third column (number) can contain font sizes.<br/>
 Options properties that may be passed to draw:
   * text_color (e.g., '#ff0000')
   * hover_text_color
