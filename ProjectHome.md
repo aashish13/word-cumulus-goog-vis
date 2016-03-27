@@ -1,0 +1,1 @@
+This is a simple wrapper, allowing you to use WP-Cumulus cloud (http://wordpress.org/extend/plugins/wp-cumulus/) as a visualization of google visualization api (http://code.google.com/apis/visualization/interactive_charts.html)
